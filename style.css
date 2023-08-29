@@ -1,0 +1,32 @@
+h1{
+    color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table{
+    border: 1px solid aquamarine;
+    padding: 25px;
+
+    background-color: whitesmoke;
+    /* border-radius: 20px; */
+    box-shadow: 10px;
+}
+
+td,tr{
+    padding: 15px;
+    /* border-radius: 20px; */
+}
+.wid{
+    width: 300px;
+}
+
+.LibraryView{
+    border: 1px groove black;
+    height:350px;
+    width: 1100px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+body{
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
